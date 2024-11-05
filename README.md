@@ -1,3 +1,4 @@
 - I am smilerism, mannerism and smile combined.
-- Python, C++, HTML, CSS, JS and Lua.
-- 🤫🧏‍♂️
+- I code in various languages like... python, C++, html and JS~
+- I am also like, super cool.
+- Thanks 😋😁😁
