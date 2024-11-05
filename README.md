@@ -1,4 +1,3 @@
-
 ---
 # Who am I?
 - I am smilerism, like mannerism and smile combined.
