@@ -1,0 +1,3 @@
+- I am smilerism, mannerism and smile combined.
+- Python, C++, HTML, CSS, JS and Lua.
+- 🤫🧏‍♂️
