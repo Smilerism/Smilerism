@@ -6,4 +6,7 @@ Welcome to my GitHub page, my profile might be an unwelcoming place due to it's 
 
 My GitHub account is exclusively for projects planned to be sent to competitions, if you would like to see my hand-written code and my passion projects, check out my Codeberg profile:
 
-[![With me, to Codeberg](codeberg-badge.png)](https://codeberg.org/Smilerism)
+<a href="https://codeberg.org/Smilerism">
+  <img src="codeberg-badge.png" alt="With me, to Codeberg" width="250" />
+  <a
+/></a>
